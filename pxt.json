@@ -6,7 +6,8 @@
         "radio": "*",
         "microIoT": "github:dfrobot/pxt-microiot#8f6da113635521ae49d8b622fad798e2dc0b917f",
         "microphone": "*",
-        "pxt-wifi": "github:e-radionicacom/pxt-wifi#v1.0.1"
+        "pxt-wifi": "github:e-radionicacom/pxt-wifi#v1.0.1",
+        "pxt-esp8266_thingspeak": "github:alankrantas/pxt-esp8266_thingspeak#v0.0.3"
     },
     "files": [
         "main.blocks",
